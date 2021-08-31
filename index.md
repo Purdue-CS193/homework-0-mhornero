@@ -1,4 +1,11 @@
+# Marina's First CS193 Homework
 ## Welcome to the Food Market
+
+Things I like about CS193:
+- It is taught by students so it is more dynamic
+- We will learn how to use the command line
+- It will be useful for the future
+
 
 Imagine that there is a big piece of bread and on top of that there are slices of tomato. That was my dream. It is also my favourite food.
 You can find the image here:
@@ -13,8 +20,7 @@ Yum!
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+
 
 1. 1234
 2. string
