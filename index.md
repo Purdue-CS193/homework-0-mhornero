@@ -5,13 +5,7 @@ You can find the image here:
 ![imagen](https://user-images.githubusercontent.com/89819259/131438940-c9292c60-6fed-4165-a023-310d14a4cfb1.png)
 
 
-.
-..
-...
-....
-.....
-......
-And so on
+Yum!
 
 
 
