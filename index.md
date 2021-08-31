@@ -1,15 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to the Food Market
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Imagine that there is a big piece of bread and on top of that there are slices of tomato. That was my dream. It is also my favourite food.
+You can find the image here:
+![imagen](https://user-images.githubusercontent.com/89819259/131438940-c9292c60-6fed-4165-a023-310d14a4cfb1.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+*
+**
+***
+****
+*****
+******
+*******
+And so on
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
@@ -18,8 +23,8 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. Numbered
-2. List
+1. 1234
+2. string
 
 **Bold** and _Italic_ and `Code` text
 
